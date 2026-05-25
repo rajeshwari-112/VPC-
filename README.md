@@ -1,8 +1,7 @@
 ## Ex-4 Deployment and configuration of a Private Cloud in AWS
 
-### DATE:
-## Name: DIVYASHREE B
-## Reg. No.:212224040081
+## Name: RAJESHWARI M
+## Reg. No.:212224040262
 
 ## Aim:
 To set up of a Private Cloud in AWS.
